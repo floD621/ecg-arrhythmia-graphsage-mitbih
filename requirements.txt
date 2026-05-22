@@ -1,0 +1,9 @@
+numpy
+scipy
+pandas
+matplotlib
+scikit-learn
+tqdm
+wfdb
+torch>=1.13
+# torch-geometric has custom install instructions; see README
