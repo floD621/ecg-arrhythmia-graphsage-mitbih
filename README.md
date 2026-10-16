@@ -96,4 +96,4 @@ Ouvrir `notebooks/3_evaluate_gnn.ipynb` puis exécuter les cellules dans l'ordre
 
 ## Référence du rapport scientifique
 
-Voir `PAPIER.md` pour une version structurée type article (méthodes, résultats, limites, discussion critique).
+Voir `PAPIER_MODELE_INITIAL.md` pour une version structurée type article (méthodes, résultats, limites, discussion critique).
